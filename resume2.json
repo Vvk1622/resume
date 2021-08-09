@@ -1,0 +1,56 @@
+{
+	"basics": {
+		"name": "vivekanand yadav",
+		"label": "Student",
+		"picture": "https://lh3.googleusercontent.com/fife/AAWUweWf1MvwNUlD3p7AuMZMKzaE6NW2y16jLg4ehXCBHUd70uTsg3Auf0na6PcR6ITFok50mXN3_vDa_qC2HmG0ZNUu0XCwONvPQvZk9CljndPdXcxDXQIIPSSAcKuyYb4IfuuRZqHVeEKNrR6FJUZ-Aw8ZmE0uuNMimxRYfuKli_1NigiSrBub0dzQn53q2_eXgiSspuLKMxsaFr4eZRPqG36KPTk22msyWvbVHtkr_7V-MBEGR3VrQ4ukfGMUtPEEw0oB3gAM_jiG2Di5cGFpfOA9JIHnZEIA_qIy1g5P6l_fijHhoBvCDLl2c9PZJ4MKqyhstVt62qQqf46FT4wHYaxIlfguBmaSXhdteXT1O0WHgO1Al0Jxcn1Qvabyz1JLXnlfOcDaQO7lGaVwZuwXRQ6iCBDrZFwDfEG5fzrgGakq1kfOlmeeg8eqXOvCIA55iNTyCwY6QoBx8MjWhWU5GAuoKQCIXpt3wuINpZnPbY3XxDcgdcjAzCzsWiv5Vh7fUN_OhfJE1PyMAt1RkylxDBbesqLueiBMYB2ZPaSpUGzvEBXnQBif4tsyuo2iurAYdtwKNpIULZ-ozaa59QZ2TSg_tnecDGcbvsKpn-b3l8xzUGGkVVFFldRLnruY6kD-ONLaWdZcQysr_s5ULNFB4fMXUL1WKYzvgZsYM5xZEoQ6Li0Eo3DpkAcHoJF3bIx6WREITb2JSfBAsMMZlA_ko09mHTc7xsX6StpFnK1FrcmLGA=s64-c",
+		"email": "2020kuec2055@iiitkota.ac.in",
+		"phone": "+919334293647",
+		"summary": "I am student of IIIT Kota , currntly I am persuing B-Tech in Electronics and Communication Engineering (ECE) ",
+		"location": {
+			"address": "at post kursakanta Dist araria, bihar-854331",
+
+			"city": "araria",
+			"countryCode": "India",
+			"region": "bihar"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "Vvk1622",
+				"url": "https://github.com/Vvk1622/resume/upload/main"
+			}
+
+			
+		]
+	},
+	
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		
+		"cgpa": "7.05",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	
+	    "languages": [
+        {
+            "language": " hindi,English "
+            
+        }
+    ],
+	
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "C","dsa"]
+		
+		
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": [ "Badminton","Cricket","Kabaddi"]
+	}]
+	
+}
